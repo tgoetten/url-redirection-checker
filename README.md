@@ -31,6 +31,11 @@ or
 ```bash
 ./redirect_checker.sh https://example.com your_username your_password
 ```
+**Example output for a URL with just a single redirection**
+![Example output single redirect](example-single-redirect.png?raw=true "Example: single redirect")
+**Example output for a URL with multiple redirections**
+
+![Example output multiple redirects](example-multiple-redirects.png?raw=true "Example: multiple redirects")
 
 ## Notes
 
